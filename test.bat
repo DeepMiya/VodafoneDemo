@@ -1,0 +1,1 @@
+echo "this is the step of git to Jenkins with git by pradip"
